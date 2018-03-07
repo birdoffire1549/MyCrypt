@@ -1,4 +1,4 @@
-package MyCrypt;
+package com.firebirdcss.tools.mycrypt;
 
 /**
  * This application was built as a wrapper for the SMGCrypt Class.
@@ -9,7 +9,7 @@ package MyCrypt;
  * @author Scott Griffis
  *
  */
-public class MyCrypt {
+public class ApplicationMain {
 	/**
 	 * Application's main entry point.
 	 * 

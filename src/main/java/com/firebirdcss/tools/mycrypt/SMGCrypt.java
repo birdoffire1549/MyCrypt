@@ -1,4 +1,4 @@
-package MyCrypt;
+package com.firebirdcss.tools.mycrypt;
 
 import java.util.Formatter;
 
